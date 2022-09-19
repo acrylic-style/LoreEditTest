@@ -1,0 +1,4 @@
+name: @name@
+version: @version@
+main: xyz.acrylicstyle.loreedittest.LoreEditTest
+api-version: 1.15
